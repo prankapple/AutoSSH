@@ -12,3 +12,4 @@ Open CMD and run (replace **myuser**, **192.168.0.2** and **supersecretpassword*
 ```bash
 autossh -user myuser -host 192.168.0.2 -password supersecretpassword
 ```
+It will open another shell and will SSH into it auto.
