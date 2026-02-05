@@ -1,4 +1,5 @@
 # AutoSSH
+![thelogo](docs/AutoSSH-logo.png)
 
 ## Install
 Open a terminal and run :
